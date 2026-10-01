@@ -67,12 +67,9 @@ python -m unittest discover -s tests -v
 ```
 
 
-## Credits and feedback
+## Credits 
 
 Street Fighter Alpha and its characters belong to Capcom; Terry and the source
 Match of the Millennium artwork belong to SNK. Developed with assistance from
 OpenAI Codex. Not an official Capcom, SNK or ModRetro release. See [NOTICE](NOTICE.md).
 
-For bug reports, include the release version, emulator/core or hardware,
-opponent, facing, input and a short recording if possible. Start from a fresh
-boot, not a savestate from another build. Do not attach ROM files to issues.
