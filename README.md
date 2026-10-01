@@ -20,9 +20,7 @@ Use your clean **Street Fighter Alpha - Warriors' Dreams (USA)** ROM:
 - CRC32: `AA5F14D2`.
 - SHA-256: `5393db89f3763c973438d8a6abd4ff83c404fe6cd58a8041adf2cd6d85535835`.
 
-Apply `SFA_Terry_v1.0.ips` once using an IPS-compatible patcher, save the result as a new `.gbc` file, and launch it fresh. The output is 4,194,304 bytes, SHA-256 `48ed0d15c6e4bc324a9ad7496e1c11ca45007af888a06a5337206096084e5dfb`. The patch is cumulative: do not apply it to an older prototype or another patched ROM. IPS does not enforce a source checksum, so check the base first.
-
-Keep existing ROMs and saves backed up. Do not load an emulator/EverDrive savestate made with another build into this version. No firmware change, Wi-Fi setup or frame blending is needed. The patch-only ZIP contains no complete game ROM.
+Apply `SFA_Terry_v1.0.ips` once using an IPS-compatible patcher, save the result as a new `.gbc` file, and launch it fresh. The output is 4,194,304 bytes, SHA-256 `48ed0d15c6e4bc324a9ad7496e1c11ca45007af888a06a5337206096084e5dfb`.
 
 ## Select Terry
 
@@ -69,28 +67,6 @@ Run the builder's integrity tests with:
 python -m unittest discover -s tests -v
 ```
 
-## Validation
-
-- Same ROM bytes as Prototype 21; only the release name changed.
-- Recovery replayed against Adon in both facings, with no dropped Terry pixels
-  in those targeted rolling-overlap checks.
-- A 3,600-frame replay retained identical logged positions, facing, health and
-  action states relative to the previous build.
-- Independently checked in SameBoy with frame blending disabled.
-- Clean-ROM reconstruction, ROM checksums, IPS reconstruction and release ZIP
-  contents verified.
-- This release has not yet received a physical Chromatic test of the final
-  recovery correction. Emulator checks do not certify every matchup.
-
-## Known limitations
-
-- The reproduced rolling-recovery hops are corrected. A smaller ordinary get-up/facing alignment issue remains under review.
-
-- No distinct Rising Upper command, High Angle Geyser or native higher-level three-geyser sequence. The Power Geyser body/effect and Crack Shoot behaviour remain Alpha adaptations.
-- Backspin, Burn Knuckle, Power Dunk and Fire Kick each have one defined timing/strength, rather than a complete native light/heavy set.
-- Some wide poses/effects use adapted or compact artwork. Particular simultaneous sprites/effects can still flicker; this is not a promise of pixel-perfect NGPC reproduction.
-- Intro/victory sequences reuse some taunt art. Hitboxes, movement, guard, cancels, reactions and much of the timing derive from Alpha. The native-style throws recover faster than earlier builds, so exhaustive balance is not claimed.
-- Full arcade completion, link play, every guard/cancel situation and every hardware combination have not been certified. In particular, the blocked-Fire-Kick follow-up suppression path remains incompletely covered by direct tests.
 
 ## Credits and feedback
 
