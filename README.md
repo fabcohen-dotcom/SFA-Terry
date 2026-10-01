@@ -9,7 +9,6 @@ firmware is required.
 — get `SFA_Terry_v1.0_PATCH_ONLY.zip` for the IPS, instructions and checksums,
 or the standalone `SFA_Terry_v1.0.ips`. No ROM is included.
 
-This first named release is byte-identical to the tested Prototype 21.
 It is an Alpha adaptation, not a port of the complete NGPC game.
 
 ## Install
