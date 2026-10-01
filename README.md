@@ -23,7 +23,7 @@ Apply `SFA_Terry_v1.0.ips` once using an IPS-compatible patcher, save the result
 
 ## Select Terry
 
-Highlight **Ryu**, press **Select** to toggle Terry, then confirm normally. Select again restores Ryu. The earlier Akuma/Dan/M. Bison selector is included; no separate hidden-character patch is required.
+Highlight **Ryu**, press **Select** to toggle Terry, then confirm normally. Select again restores Ryu. The earlier Akuma/Dan/M. Bison selector is included: press Select on the random box to circle between options; no separate hidden-character patch is required.
 
 ## Controls and move list
 
