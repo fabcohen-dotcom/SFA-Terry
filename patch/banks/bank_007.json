@@ -1,0 +1,17 @@
+{
+  "bank": 7,
+  "segments": [
+    {
+      "offset": "0x01DDE5",
+      "hex": [
+        "c3 c5 3f"
+      ]
+    },
+    {
+      "offset": "0x01DE66",
+      "hex": [
+        "cd b7 3f 00 00"
+      ]
+    }
+  ]
+}

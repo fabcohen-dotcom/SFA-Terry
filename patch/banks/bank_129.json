@@ -1,0 +1,41 @@
+{
+  "bank": 129,
+  "segments": [
+    {
+      "offset": "0x204000",
+      "hex": [
+        "c5 d5 e5 cd 00 43 3e 15 28 02 3e 08 cd 24 1c 2e 46 7e fe 03 38 2f fe 06 30 2b e5 2e 52 66 2e 51",
+        "7e b7 e1 20 20 cd 00 43 28 1b 2e 18 af 22 77 2e 7e 36 30 3e f8 cd 24 1c 2e 26 7e b7 3e 16 20 02",
+        "3e ea cd 15 1c e1 d1 c1 c9"
+      ]
+    },
+    {
+      "offset": "0x204100",
+      "hex": [
+        "f5 c5 d5 e5 f0 ec 67 2e 46 7e fe 03 38 32 fe 06 30 2e e5 2e 52 66 2e 51 7e b7 e1 20 23 cd 00 43",
+        "28 1e 2e 2a 7e fe 01 20 17 fa 25 cf b7 20 11 2e 7e 7e b7 28 03 35 20 08 2e 2a 36 02 2c af 22 77",
+        "e1 d1 c1 f1 f0 ec 67 c9"
+      ]
+    },
+    {
+      "offset": "0x204200",
+      "hex": [
+        "f5 c5 d5 e5 f0 ec 67 2e 46 7e fe 03 38 23 fe 06 30 1f e5 2e 52 66 2e 51 7e b7 e1 20 14 cd 00 43",
+        "28 0f af e0 b4 3e 1f e0 b5 3e 0b e0 b6 3e 1c e0 b7 e1 d1 c1 f1 c9"
+      ]
+    },
+    {
+      "offset": "0x204300",
+      "hex": [
+        "e5 7c fe d2 38 07 fe d5 30 1c 2e 52 66 2e 51 7e b7 20 13 7c fe c4 28 09 fe c6 20 0a fa f9 cb 18",
+        "06 fa f8 cb 18 01 af b7 e1 c9"
+      ]
+    },
+    {
+      "offset": "0x207FFF",
+      "hex": [
+        "81"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "bank": 0,
+  "segments": [
+    {
+      "offset": "0x000148",
+      "hex": [
+        "07"
+      ]
+    },
+    {
+      "offset": "0x00014D",
+      "hex": [
+        "26 a5 07"
+      ]
+    },
+    {
+      "offset": "0x000E36",
+      "hex": [
+        "cd 60 25 00 48 00 00 00"
+      ]
+    },
+    {
+      "offset": "0x001424",
+      "hex": [
+        "cd 60 25 00 5f"
+      ]
+    },
+    {
+      "offset": "0x0014A4",
+      "hex": [
+        "cd a8 25"
+      ]
+    },
+    {
+      "offset": "0x001506",
+      "hex": [
+        "cd a8 25"
+      ]
+    },
+    {
+      "offset": "0x00156A",
+      "hex": [
+        "cd a8 25"
+      ]
+    },
+    {
+      "offset": "0x0015CC",
+      "hex": [
+        "cd a8 25"
+      ]
+    },
+    {
+      "offset": "0x0018A1",
+      "hex": [
+        "cd 60 25 00 41 ea 50 21 2e 15 6e 26 00 7d 29 85 6f 30 01 24 19 2a 5e 23 66 6b c9 00 00"
+      ]
+    },
+    {
+      "offset": "0x00205E",
+      "hex": [
+        "cd 9c 25"
+      ]
+    },
+    {
+      "offset": "0x00255A",
+      "hex": [
+        "cd 60 25 00 61 c9 f5 f5 f5 f5 c5 d5 e5 f8 0c 4e 23 46 f8 06 71 23 70 f8 0e 5e 23 56 1a 4f 13 1a",
+        "47 13 72 2b 73 f8 08 71 23 70 23 36 e6 23 36 3f 23 36 00 23 fa ff 7f 77 3e 82 ea 50 21 e1 d1 c1",
+        "f1 c9 cd 60 25 00 44 c9 cd 60 25 40 4b c9 7d e0 a0 cd 60 25 00 5e c9 ea 50 21 7e f5 3e 82 ea 50",
+        "21 f1 c9 ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff"
+      ]
+    },
+    {
+      "offset": "0x0026CF",
+      "hex": [
+        "cd 60 25 80 4c"
+      ]
+    },
+    {
+      "offset": "0x003F44",
+      "hex": [
+        "cd 60 25 00 5c 00"
+      ]
+    },
+    {
+      "offset": "0x003FB7",
+      "hex": [
+        "3e 81 ea 50 21 cd 00 40 3e 07 ea 50 21 c9 3e 81 ea 50 21 cd 00 41 3e 07 ea 50 21 c3 e8 5d cd 5c",
+        "35 3e 81 ea 50 21 cd 00 42 3e 05 ea 50 21 c9 f5 e5 f8 05 7e ea 50 21 f8 02 7e 23 23 77 2b 7e 23",
+        "23 77 e1 e8 02 f1 c9"
+      ]
+    }
+  ]
+}

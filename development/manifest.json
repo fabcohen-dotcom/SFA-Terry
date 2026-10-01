@@ -1,0 +1,66 @@
+{
+  "release": "1.0",
+  "origin": "Prototype 21 development sources",
+  "files": {
+    "build_terry.py": {
+      "sha256": "f66e66cd0937e855c7b8d5c1638f1eea8a6887b5732c34476fea28f546d17c1a",
+      "role": "historical implementation reference"
+    },
+    "build_terry_15.py": {
+      "sha256": "c0f1ee9845b4d10a1477f2a2bba9b7a6a196c95085a3d13167f788e5232a3486",
+      "role": "historical implementation reference"
+    },
+    "build_terry_16.py": {
+      "sha256": "76c5b938c137cbef749429393b373ad8780630accd521d80968101bdd6bf80ef",
+      "role": "historical implementation reference"
+    },
+    "build_terry_17.py": {
+      "sha256": "6beddf3260fb518df6c4f4bb566ca829d5426f6fc861f9aaa0e25efcbc61db89",
+      "role": "historical implementation reference"
+    },
+    "build_terry_18.py": {
+      "sha256": "e2a6f3065f51c373d3d896e903715e163e4a7716e908d9306bc03c0c9a9e8b32",
+      "role": "historical implementation reference"
+    },
+    "build_terry_19.py": {
+      "sha256": "8128ddf5d2c76d9f8d3b0f01d71f80deacfc75c869bcbabc9bc56c05ebc91ad0",
+      "role": "historical implementation reference"
+    },
+    "build_terry_21.py": {
+      "sha256": "4135330e9dc348f4af819cd158933da0f240379177d2c48e7f21565bc7d648d3",
+      "role": "historical implementation reference"
+    },
+    "terry_moves_14.py": {
+      "sha256": "92187a7267afd7ec3d3759dbb33e436c8922866d0ce70f4ab0a923af9ec61970",
+      "role": "historical implementation reference"
+    },
+    "terry_variant.py": {
+      "sha256": "0845d3c5dc5478628f37a536e8dc7ecb9588b338b13637b718adba3a8ae4c9a9",
+      "role": "historical implementation reference"
+    },
+    "terry_geyser.py": {
+      "sha256": "f3ed4b19d04d70206f619e682c1f185cd83b6a5ef01cd7ea87399174b73a55a7",
+      "role": "historical implementation reference"
+    },
+    "terry_native_art.py": {
+      "sha256": "95ee6094ec86f0787c2e4164fc8bc6e55e096e833c9b1b2fa519a9afee987fae",
+      "role": "historical implementation reference"
+    },
+    "terry_art_15.py": {
+      "sha256": "d0548827d7ce0462caca397ea993f1720236878feacc6f4017aa76393ec4005a",
+      "role": "historical implementation reference"
+    },
+    "terry_ui_art.py": {
+      "sha256": "81be67eedf5f2e6fa1f7a52e874b9acb18d1fd7bc6633672faabfe01aa206766",
+      "role": "historical implementation reference"
+    },
+    "sfa_sprite_codec.py": {
+      "sha256": "c8f4d806a2495006cda104829aee1ec63bf4bbc41086f8425a69d5ae3433f550",
+      "role": "historical implementation reference"
+    },
+    "refine_layouts_16.py": {
+      "sha256": "31aaef26865cdf2f41988385eaab9d4a436f4c1f4d4c99a1f29fa01bea58387a",
+      "role": "historical implementation reference"
+    }
+  }
+}

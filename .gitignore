@@ -1,0 +1,26 @@
+# Keep all personal ROMs, save data, captures and generated downloads local.
+*.gb
+*.gbc
+*.ngc
+*.ngp
+*.sav
+*.srm
+*.state
+*.state*
+*.flash
+*.ips
+*.bps
+*.zip
+*.dll
+*.exe
+*.png
+*.gif
+*.mp4
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+private/
+.env
+.env.*
